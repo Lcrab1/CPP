@@ -8,5 +8,6 @@ int main(){
     int a,b;
     cin>>a>>b;
     cout<<min(a,b);
+    cout<<"just test"<<endl;
     return 0;
 }
